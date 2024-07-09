@@ -83,4 +83,4 @@ A data máxima de entrega é dia **27 de abril de 2024**.
 * Se você não possui os componentes instalados na sua máquina, [uma VM Linux](https://drive.google.com/file/d/1oY3aHO0NabcRK0WEt9LyS1OwhzHaSs-_/view?usp=sharing) para o [VirtualBox](https://www.virtualbox.org/) é disponibilizada com todas as ferramentas necessárias para que você possa implementar o trabalho.
 * Todo código utilizado em aula pode ser utilizado no trabalho.
 * Em caso de plágio, a nota atribuída ao tabalho será 0 (zero).
-
+teste
